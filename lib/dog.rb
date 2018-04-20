@@ -18,3 +18,7 @@ end
 fido = Dog.new("Fido", "Pug")
 fido.name
 fido.breed
+
+fido = Dog.new("Fido")
+fido.name
+fido.breed
